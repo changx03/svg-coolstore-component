@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1952"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="heater-pipe.svg">
+  <defs
+     id="defs1946" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="14.642857"
+     inkscape:cy="31.428571"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     viewbox-width="100"
+     viewbox-height="100"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54173)">
+    <rect
+       style="opacity:0.93999999;fill:#999999;stroke:none;stroke-width:34;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4265"
+       width="30"
+       height="100"
+       x="35"
+       y="270.54172" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:2.71814084;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.64093,270.54172 c 0,11.67395 -27.28186,-4.5311 -27.28186,7.14286 0,11.67395 27.28186,-4.53111 27.28186,7.14286 0,11.67395 -27.28186,-4.53111 -27.28186,7.14284 0,11.67397 27.28186,-4.53109 27.28186,7.14286 0,11.67396 -27.28186,-4.53109 -27.28186,7.14286 0,11.67395 27.28186,-4.53109 27.28186,7.14286 0,11.67395 -27.28186,-4.53109 -27.28186,7.14286 0,11.67395 27.28186,-4.53109 27.28186,7.14286 0,11.67395 -27.28186,-4.53111 -27.28186,7.14286 0,11.67395 27.28186,-4.53111 27.28186,7.14285 0,11.67396 -27.28186,-4.5311 -27.28186,7.14285 0,11.67396 27.28186,-4.53109 27.28186,7.14286 0,11.67395 -27.28186,-4.53109 -27.28186,7.14286 0,11.67395 27.28186,-4.53109 27.28186,7.14286"
+       id="path4273"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzzzc" />
+  </g>
+</svg>
